@@ -1,4 +1,4 @@
-package jobsheet7;
+ppackage jobsheet7;
 import java.util.Scanner;
 
 public class SiakadFor18 {
