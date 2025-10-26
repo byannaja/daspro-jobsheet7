@@ -31,7 +31,7 @@ Absen: 18
    if (nilai >= 60)
        lulus++;
    else
-       tidakLulus++;
+       tidakLulus++;```
 
 #  Percobaan 2 – Studi Kasus Nilai Mahasiswa di SIAKAD (Perulangan WHILE)
 
