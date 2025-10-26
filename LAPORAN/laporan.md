@@ -4,7 +4,7 @@ Mata Kuliah: Dasar Pemrograman
 Tahun: 2025  
 Nama : Muhammad Abyan Andhi Putra
 Absen: 18
----
+
 
 ##  Percobaan 1 – FOR
 
@@ -32,7 +32,7 @@ Absen: 18
        lulus++;
    else
        tidakLulus++;
-    ```
+
 
 #  Percobaan 2 – Studi Kasus Nilai Mahasiswa di SIAKAD (Perulangan WHILE)
 
