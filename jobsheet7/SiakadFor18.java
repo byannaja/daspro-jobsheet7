@@ -12,6 +12,7 @@ public class SiakadFor18 {
                 tertinggi = nilai;
             if (nilai < terendah)
                 terendah = nilai;
+                //
         }
         System.out.println("Nilai tertinggi: " + tertinggi);
         System.out.println("Nilai terendah: " + terendah);
