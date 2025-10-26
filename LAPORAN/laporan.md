@@ -32,7 +32,7 @@ Absen: 18
        lulus++;
    else
        tidakLulus++;
-       ```
+
 
 #  Percobaan 2 – Studi Kasus Nilai Mahasiswa di SIAKAD (Perulangan WHILE)
 
