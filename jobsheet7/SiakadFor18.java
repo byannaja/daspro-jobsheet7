@@ -34,7 +34,8 @@ public class SiakadFor18 {
 
         System.out.println("\nNilai tertinggi: " + tertinggi);
         System.out.println("Nilai terendah: " + terendah);
-        
+        System.out.println("Jumlah mahasiswa lulus: " + lulus);
+        System.out.println("Jumlah mahasiswa tidak lulus: " + tidakLulus);
         sc.close();
     }
 }
