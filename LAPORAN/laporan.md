@@ -31,13 +31,14 @@ Absen: 18
    if (nilai >= 60)
        lulus++;
    else
-       tidakLulus++;```
+       tidakLulus++;
+       ```
 
 #  Percobaan 2 – Studi Kasus Nilai Mahasiswa di SIAKAD (Perulangan WHILE)
 
 ##  Pertanyaan dan Jawaban
 
----
+
 
 ### 1. Pada potongan kode berikut, tentukan maksud dan kegunaan dari sintaks berikut:
 a. `nilai < 0 || nilai > 100`  
