@@ -26,8 +26,7 @@ Absen: 18
 
 4. **Modifikasi kode program sehingga terdapat perhitungan untuk menentukan berapa mahasiswa yang lulus dan tidak lulus berdasarkan batas kelulusan (nilai minimal 60).**  
    **Jawaban:**  
-   Tambahkan kondisi berikut:
-   ```java
+   
    if (nilai >= 60)
        lulus++;
    else
